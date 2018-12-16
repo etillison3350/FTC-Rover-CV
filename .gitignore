@@ -26,3 +26,11 @@ build/
 
 *ASUS_PC_01*
 
+# DogeCV specific 
+/build
+
+DogeCV/build/generated/
+
+DogeCV/build/
+
+openCVLibrary320/build/
